@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackMiddlewareAPI", "SlackMiddlewareAPI\SlackMiddlewareAPI.csproj", "{4811B763-E949-43CC-870B-C4F4C47EFACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4811B763-E949-43CC-870B-C4F4C47EFACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4811B763-E949-43CC-870B-C4F4C47EFACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4811B763-E949-43CC-870B-C4F4C47EFACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4811B763-E949-43CC-870B-C4F4C47EFACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5662CDE-2DD0-4019-965D-D70AD02B79A0}
+	EndGlobalSection
+EndGlobal
