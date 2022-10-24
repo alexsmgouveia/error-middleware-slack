@@ -1,6 +1,6 @@
 # error-middleware-slack
 
-Comunicação de Falhas de API para um canal no Slack.
+Comunicação de Falhas em APIs, direcionando para um canal no Slack.
 
 ## Projeto
 Projeto WebAPI
