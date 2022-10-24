@@ -7,8 +7,8 @@ Projeto WebAPI
 Net Core 3.1.
 
 ## Inicializando
-1. Acessar: <br>
-api.slack.com/apps/A0481PLHWHF/incoming-webhooks
+1. Criar um [novo APP no Slack](https://api.slack.com/apps/) selecionar "From scratch" e definir o workspace <br>
+![image](https://user-images.githubusercontent.com/35737565/197643723-786f71c7-77a3-4a2d-8fe4-323d0f8eb9bd.png)
 2. Criar um webhook <br>
 ![image](https://user-images.githubusercontent.com/35737565/197640384-3036e6a0-ffa8-44b5-823e-9b7061333095.png)
 3. Definir canal e copiar URL <br>
