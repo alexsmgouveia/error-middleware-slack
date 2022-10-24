@@ -18,4 +18,4 @@ api.slack.com/apps/A0481PLHWHF/incoming-webhooks
 5. O Endpoint [GET] /erro está preparado para tomar uma exceção <br>
 ![image](https://user-images.githubusercontent.com/35737565/197641161-0370aeb0-43c7-4ed6-83ad-add460b0a265.png)
 6. O erro será notificado via Slack no canal que definido na etapa 3 <br>
-![image](https://user-images.githubusercontent.com/35737565/197641362-fcc528dd-dc3f-4d27-9cfe-6f3177a8faf4.png)
+![image](https://user-images.githubusercontent.com/35737565/197642983-edc31204-3eff-4b6a-8115-1a17e35a2929.png)
